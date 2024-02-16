@@ -8,7 +8,7 @@ export default function Footer() {
       <p className='text-center mt-3'>
         <Link href="/about">About</Link> |
         <Link href="/contact">contact</Link> |
-        <Link href="/policy">Privacy Policy</Link>
+        
       </p>
 
     </div>
